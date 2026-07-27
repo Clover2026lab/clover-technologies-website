@@ -49,6 +49,12 @@
 }
 
 :root {
+  :root {
+  --clover: #16a34a;
+  --navy: #0f172a;
+  --gray: #64748b;
+  --light: #f8fafc;
+}
   --background: oklch(1 0 0);
   --foreground: oklch(0.145 0 0);
   --card: oklch(1 0 0);
